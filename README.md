@@ -1,8 +1,7 @@
 # [Home Page](https://noelcodes.github.io/)
 
-# Face-Detection-and-ID
-Face Detection and ID of the Avengers using only OpenCV.
-Thanks to tutorial: 
+# Face-Detection-and-ID using only OpenCV (Marvel Avengers)
+Thanks to tutorial by CodingEntrepreneurs.
 https://youtu.be/PmZ29Vta7Vc
 
 ![alt text](https://github.com/noelcodes/Face-Detection-and-ID/blob/master/face_gif_demo.gif)
